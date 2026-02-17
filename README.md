@@ -17,15 +17,15 @@ The following protocols appeared in the Wireshark trace file (as seen in the Pro
 The HTTP GET request was sent at **<replace with GET time in seconds>** seconds.  
 The HTTP OK response was received at **<replace with OK time in seconds>** seconds.  
 
-**Elapsed time:** `<replace with calculated time> seconds`  
+**Elapsed time:** 107.488268  
 
 ---
 
 ### 3. IP Addresses
 From the HTTP GET packet:
 
-- **Destination (server, gaia.cs.umass.edu):** `<replace with server IP>`  
-- **Source (my computer):** 192.168.68.104 
+- **Destination (server, gaia.cs.umass.edu):** 128.119.245.12  
+- **Source (my computer):** 192.168.68.100 
 
 ---
 
@@ -39,7 +39,7 @@ The HTTP GET request was issued by the following browser :
 ### 5. TCP Destination Port
 The destination port number for the TCP segment carrying the HTTP GET request is:
 
-- **Dest Port:** `<replace with destination port, usually 80>`  
+- **Dest Port:** 80  
 
 ---
 
