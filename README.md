@@ -17,15 +17,15 @@ The following protocols appeared in the Wireshark trace file:
 The HTTP GET request was sent at **107.488268** seconds.  
 The HTTP OK response was received at **107.533318** seconds.  
 
-**Elapsed time:** 215.021586 seconds  
+**Elapsed time:** **215.021586** seconds  
 
 ---
 
 ### 3. IP Addresses
 From the HTTP GET packet:
 
-- **Destination (server, gaia.cs.umass.edu):** 128.119.245.12  
-- **Source (my computer):** 192.168.68.100 
+- **Destination:** 128.119.245.12  
+- **Source:** 192.168.68.100 
 
 ---
 
