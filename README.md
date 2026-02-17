@@ -5,7 +5,7 @@
 
 ---
 
-### 1. 
+1. 
 The following protocols appeared in the Wireshark trace file:
  
 - HTTP  
@@ -13,7 +13,7 @@ The following protocols appeared in the Wireshark trace file:
 
 ---
 
-### 2. 
+2. 
 The HTTP GET request was sent at **107.488268** seconds.  
 The HTTP OK response was received at **107.533318** seconds.  
 
@@ -21,7 +21,7 @@ The HTTP OK response was received at **107.533318** seconds.
 
 ---
 
-### 3. 
+3. 
 From the HTTP GET packet:
 
 - **Destination:** 128.119.245.12  
@@ -29,14 +29,14 @@ From the HTTP GET packet:
 
 ---
 
-### 4. 
+4. 
 The HTTP GET request was issued by the following browser :
 
 - Chrome
 
 ---
 
-### 5. 
+5. 
 The destination port number for the TCP segment carrying the HTTP GET request is:
 
 - **Dest Port:** 80  
