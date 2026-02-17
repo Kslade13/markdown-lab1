@@ -6,14 +6,14 @@
 ---
 
 ### 1. Protocols Observed
-The following protocols appeared in the Wireshark trace file (as seen in the Protocol column):
+The following protocols appeared in the Wireshark trace file:
  
 - HTTP  
 
 
 ---
 
-### 2. Time from HTTP GET → HTTP OK
+### 2. Time from HTTP GET & HTTP OK
 The HTTP GET request was sent at **107.488268** seconds.  
 The HTTP OK response was received at **107.533318** seconds.  
 
