@@ -14,10 +14,10 @@ The following protocols appeared in the Wireshark trace file (as seen in the Pro
 ---
 
 ### 2. Time from HTTP GET → HTTP OK
-The HTTP GET request was sent at **<replace with GET time in seconds>** seconds.  
-The HTTP OK response was received at **<replace with OK time in seconds>** seconds.  
+The HTTP GET request was sent at **107.488268** seconds.  
+The HTTP OK response was received at **107.533318** seconds.  
 
-**Elapsed time:** 107.488268  
+**Elapsed time:** 215.021586 seconds  
 
 ---
 
@@ -42,5 +42,3 @@ The destination port number for the TCP segment carrying the HTTP GET request is
 - **Dest Port:** 80  
 
 ---
-
-### 6. HTTP Messages Prin
