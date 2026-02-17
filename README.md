@@ -7,11 +7,9 @@
 
 ### 1. Protocols Observed
 The following protocols appeared in the Wireshark trace file (as seen in the Protocol column):
-
-- TCP  
+ 
 - HTTP  
-- DNS  
-- <replace with any additional protocols observed>  
+
 
 ---
 
